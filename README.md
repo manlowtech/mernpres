@@ -1,34 +1,75 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# MernPress
+The world have progressed and new technologies are emerging AND WE ARE Happy to Introduce MernPress. 
+MernPress is a content management system developed using node,reactjs and mysql.
+MernPress also supports other view engines like pug, handlebars and in addition to reactjs Mernpress also supports vuejs
+You Can install Themes and Addons To build your website.
 
-## Getting Started
+## Installation
+MernPress comes in two formats for:-- 
+ 1. for Theme and Addons Developers. npx -p npm@14 npm install
 
-First, run the development server:
+ 
+```bash
+ 
+ npx create-mernpress your-appName
+
+```
+OR
 
 ```bash
-npm run dev
-# or
-yarn dev
+ npm i create-mernpress
+ npx create-mernpress your-appName
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+ 2. For LIVE Web-Building ,Download this repository and install the dependencies 
+  a. OR on a live servers like Heroku,AWS or  web hosting facilities that use MernPress
+##Add Cards
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Documentation
+ https://mernpress.herokuapp.com/
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+  ## Usage
+  To build a website download and install Mernpress Themes and Addons from the Admin Dashboard and Happy Blogging------ https://mernpress.herokuapp.com/
 
-## Learn More
+  ## MernPress Supported Databases
+   1. Mysql
+   2. Postgres
+   3. Sqllite
+   4. MongoDB
+   5. MariaDB
+   6. mssql
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+   ## Future Supports
+   1. we are working on providing supports for All SQL and NoSQL databases 
+   ## Project Status 
+   Done and Still Updating working contact for contributions.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+  ## Contribution
+   Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Drop your Email and Name So that we can Include your details among Mernpress Contributors.
 
-## Deploy on Vercel
+   ## License
+[MIT](https://choosealicense.com/licenses/mit/)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Contact Details
+ http://twitter.com/realManlow (@realManlow)
+ email : Charumbiramanlow20@gmail.com, realmanlow@gmail.com
+ Whatsapp: +263773466252
+ facebook: facebook.com/realManlow
+ Instagram: instagram.com/realManlow 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Tools Used
+look into package.json in server and clinet folders
+
+
+ ## Authors
+ ```bash
+ Manlow Charumbira
+ ```
+ ## ABOUT @realManlow aka Manlow Charumbira
+ realManlow  at Midlands State University majoring in 
+ ```bash
+   follow my social media accounts to know about me
+ ```
